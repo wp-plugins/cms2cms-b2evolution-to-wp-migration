@@ -7,7 +7,7 @@ Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-If you are about to convert your website from b2evolution to WordPress, then this plugin will help you to make the migration process absolutely automatedly.
+If you are about to convert your website from b2evolution to WordPress, this plugin will help you to make the data migration absolutely automatedly.
 
 == Description ==
 
@@ -45,7 +45,7 @@ For more details on how to convert b2evolution to WordPress, see here: http://ww
 1. Download the plugin zip file
 1. Extract plugin zip file to your PC
 1. Upload extracted file to wp-content/plugin directory
-1. Go to Admin -> Plugins, find “CMS2CMS b2evolution to WordPress Converter” and click Activate
+1. Go to Admin -> Plugins, find “CMS2CMS b2evolution to WordPress Convertor” and click Activate
 1. You’ll be redirected to CMS2CMS website in order to complete your migration.
 
 
