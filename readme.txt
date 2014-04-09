@@ -1,13 +1,13 @@
-﻿=== CMS2CMS b2evolution to WordPress Converter  ===
+﻿=== CMS2CMS b2evolution to WordPress Convertor  ===
 Contributors: cms2cms
-Tags: b2evolution to wordpress, b2evolution to wordpress mirgation, convert b2evolution to wordpress, migrate b2evolution to wordpress
+Tags: b2evolution to wordpress, b2evolution to wordpress mirgation, convert b2evolution to wordpress, migrate b2evolution to wordpress, b2evolution to wordpress converter
 Requires at least: 3.0.0
 Tested up to: 3.8
 Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-If you are about to convert your website from b2evolution to WordPress, then this plugin will help you to make the migration process absolutely automatedly.
+If you are about to convert your website from b2evolution to WordPress, this plugin will help you to make the data migration absolutely automatedly.
 
 == Description ==
 
