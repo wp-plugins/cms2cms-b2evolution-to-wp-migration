@@ -7,7 +7,7 @@ Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-If you are about to convert your website from b2evolution to WordPress, this plugin will help you to make the data migration absolutely automatedly.
+If you are about to convert your website from b2evolution to WordPress, this plugin will migrate your data absolutely automatedly.
 
 == Description ==
 
