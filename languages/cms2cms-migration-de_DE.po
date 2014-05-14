@@ -15,25 +15,25 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-#: ../cms2cms-wordpress-to-b2evolution.php:35
+#: ../cms2cms-wordpress-to-B2evolution.php:35
 msgid "B2EVOLUTION"
 msgstr ""
 
-#: ../cms2cms-wordpress-to-b2evolution.php:41
+#: ../cms2cms-wordpress-to-B2evolution.php:41
 msgid "WordPress"
 msgstr ""
 
-#: ../cms2cms-wordpress-to-b2evolution.php:49
+#: ../cms2cms-wordpress-to-B2evolution.php:49
 #, php-format
 msgid "CMS2CMS: %s to %s Migration"
 msgstr ""
 
-#: ../cms2cms-wordpress-to-b2evolution.php:56
+#: ../cms2cms-wordpress-to-B2evolution.php:56
 #, php-format
 msgid "%s to %s"
 msgstr ""
 
-#: ../cms2cms-wordpress-to-b2evolution.php:175
+#: ../cms2cms-wordpress-to-B2evolution.php:175
 msgid "Provided credentials are not correct: "
 msgstr "Anmeldeinformationen sind nicht korrekt:"
 
