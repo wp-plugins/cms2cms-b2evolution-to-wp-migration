@@ -34,12 +34,12 @@ class CmsPluginView
 
     public function getPluginSourceName()
     {
-        return $this->__('B2EVOLUTION', 'cms2cms-mirgation');
+        return $this->__('B2evolution', 'cms2cms-mirgation');
     }
 
     public function getPluginSourceType()
     {
-        return 'B2EVOLUTION';
+        return 'B2evolution';
     }
 
     public function getPluginTargetName()
