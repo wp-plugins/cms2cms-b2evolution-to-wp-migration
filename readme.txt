@@ -1,6 +1,6 @@
 ﻿=== CMS2CMS b2evolution to WordPress Convertor  ===
 Contributors: cms2cms
-Tags: b2evolution to wordpress, b2evolution to wordpress mirgation, convert b2evolution to wordpress, migrate b2evolution to wordpress
+Tags: b2evolution to wordpress, b2evolution to wordpress migration, convert b2evolution to wordpress, migrate b2evolution to wordpress, comments, posts, images, plugin
 Requires at least: 3.0.0
 Tested up to: 3.9.1
 Stable tag: 3.6.2
