@@ -2,7 +2,7 @@
 Contributors: cms2cms
 Tags: b2evolution to wordpress, b2evolution to wordpress migration, convert b2evolution to wordpress, migrate b2evolution to wordpress, comments, posts, images, plugin
 Requires at least: 3.0.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -27,7 +27,7 @@ If you are about to convert your website from b2evolution to WordPress, then thi
 * SEO URLs 
 * Internal Links
 
-Works for b2evolution 4.x, 5.x and WordPress 3.x.
+Works for b2evolution 4.x, 5.x and WordPress 4.x.
 Nota bene!  Forum and Gallery migration are supported only for b2evolution 5.x.
 
 = Features of Automated Migration with CMS2CMS =
@@ -40,7 +40,7 @@ Nota bene!  Forum and Gallery migration are supported only for b2evolution 5.x.
 * It is possible to try a free Demo Migration and convert up to 100 pages with all the related items for free to the test site and see the service in progress. 
 * 24/7 live support will answer all your questions and provide you with the needed help during and after the switch. 
 
-For more details on how to convert b2evolution to WordPress, see here: http://www.cms2cms.com/supported-cms/b2evolution-to-wordpress-migration/
+For more details on how to convert b2evolution to WordPress, see here: http://www.cms2cms.com/supported-cms/b2evolution-to-wordpress-migration/?utm_source=b2evolution&utm_medium=Link&utm_campaign=WordPress_plugins
 
 
 **Website design (styles, themes) isn’t migrated.**
