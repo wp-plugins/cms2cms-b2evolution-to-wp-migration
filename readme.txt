@@ -42,6 +42,10 @@ Nota bene!  Forum and Gallery migration are supported only for b2evolution 5.x.
 
 For more details on how to convert b2evolution to WordPress, see here: http://www.cms2cms.com/supported-cms/b2evolution-to-wordpress-migration/?utm_source=b2evolution&utm_medium=Link&utm_campaign=WordPress_plugins
 
+Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours:
+Phone support – 24 hours a day, Monday – Friday
+Live Chat support – 24 hours a day, Monday – Friday
+Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
 
 **Website design (styles, themes) isn’t migrated.**
 
