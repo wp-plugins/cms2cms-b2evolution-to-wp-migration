@@ -14,7 +14,7 @@ If you are about to convert your website from b2evolution to WordPress, this plu
 If you are about to convert your website from b2evolution to WordPress, then this plugin will help you to make the migration process absolutely automatedly. 
 
 * *There is Free Demo available (migration of limited number of pages, users, comments).*
-* *Full Migration starts from $49.*
+* *Full Migration starts from $39.*
 
 = CMS2CMS Converts the Following Website Content =
 * Pages
